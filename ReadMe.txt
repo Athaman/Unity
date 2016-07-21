@@ -1,0 +1,1 @@
+Following Michigan State University's introduction to game design course on Coursera at https://www.coursera.org/specializations/game-development I completed the following Unity projects using prepackaged media (sprites/sound effects) along with some sample code. Implemented in C# scripting.
